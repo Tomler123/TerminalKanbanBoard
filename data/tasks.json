@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Fix database bug",
+        "status": "DONE",
+        "priority": "medium"
+    },
+    {
+        "id": 2,
+        "title": "Write documentation",
+        "status": "DONE",
+        "priority": "medium"
+    },
+    {
+        "id": 3,
+        "title": "Fix security issue",
+        "status": "DONE",
+        "priority": "medium"
+    },
+    {
+        "id": 4,
+        "title": "Update documentation",
+        "status": "DONE",
+        "priority": "medium"
+    },
+    {
+        "id": 6,
+        "title": "Implement user authentication",
+        "status": "IN_PROGRESS",
+        "priority": "medium"
+    },
+    {
+        "id": 7,
+        "title": "Write API documentation",
+        "status": "IN_PROGRESS",
+        "priority": "medium"
+    },
+    {
+        "id": 8,
+        "title": "Optimize frontend performance",
+        "status": "TODO",
+        "priority": "medium"
+    },
+    {
+        "id": 9,
+        "title": "Refactor backend code",
+        "status": "TODO",
+        "priority": "medium"
+    },
+    {
+        "id": 10,
+        "title": "Set up CI/CD pipeline",
+        "status": "TODO",
+        "priority": "medium"
+    },
+    {
+        "id": 11,
+        "title": "Improve error logging",
+        "status": "IN_PROGRESS",
+        "priority": "medium"
+    },
+    {
+        "id": 5,
+        "title": "Fix database connection",
+        "status": "DONE",
+        "priority": "medium"
+    }
+]
